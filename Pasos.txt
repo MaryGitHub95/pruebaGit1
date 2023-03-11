@@ -1,0 +1,20 @@
+1.HTML
+2.CSS
+3.GRID CSS
+4.FLEXBOX
+4.1 Pseudoclases y pseudoelementos
+    Variables
+4.2 Libros y volver a ver videos
+5.VER EJEMPLOS
+
+
+  SQL
+  MySQL
+  GIT
+
+
+  JAVASCRIPT
+   VER EJEMPLOS
+    ESCOGER FRAMEWORK
+     ESTUDIAR FRAMEWORK
+      VER EJEMPLOS
